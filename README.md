@@ -1,6 +1,6 @@
 # Dusk Valley
 
-A theme for [T3 Code](https://t3.codes): moonlit hills behind frosted glass.
+A theme for T3 Code: moonlit hills behind frosted glass.
 
 ![Dusk Valley background](preview/background.jpg)
 
